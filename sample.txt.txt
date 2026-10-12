@@ -1,3 +1,1 @@
 This is the first step for the Git and GitHub commands
-
-my name is mugilan
