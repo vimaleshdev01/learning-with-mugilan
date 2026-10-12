@@ -1,1 +1,3 @@
 This is the first step for the Git and GitHub commands
+
+git fetch is working right
