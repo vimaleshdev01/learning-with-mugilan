@@ -1,4 +1,1 @@
 This is the first step for the Git and GitHub commands
-
-
-this is revert comment
